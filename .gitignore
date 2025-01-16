@@ -1,0 +1,8 @@
+venv/
+personalwebsite/db.sqlite3
+personalwebsite/ekanshgoenka/__pycache__/
+personalwebsite/__pycache__/
+personalwebsite/personalwebsite/__pycache__/
+personalwebsite/ekanshgoenka/migrations/
+
+
