@@ -1,3 +1,37 @@
-h1 {
-  color: red;
+a {
+  display: inline-block;
+  transition: transform 0.1s ease;
+}
+
+body {
+  font-family: "Press Start 2P", monospace;
+  font-size: 14px;
+}
+
+ol {
+  font-family: "Press Start 2P", monospace;
+  font-size: 14px;
+}
+
+li {
+  /* display: flex; */
+  align-items: center; /* Keeps text and bullet aligned */
+}
+
+a {
+  /* display: inline-block; */
+  transition: transform 0.2s ease;
+}
+a:hover {
+  transform: scale(1.05);
+}
+
+body {
+  background: repeating-linear-gradient(
+    0deg,
+    rgba(0, 0, 0, 0.1) 0px,
+    rgba(0, 0, 0, 0.1) 2px,
+    transparent 2px,
+    transparent 4px
+  );
 }

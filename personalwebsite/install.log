@@ -1,0 +1,10 @@
+[17:52:45 2025-01-19] FETCHING Version 2.38.7
+[17:52:45 2025-01-19] CREATING /Users/Ekansh/.spicetify
+[17:52:45 2025-01-19] DOWNLOADING https://github.com/spicetify/cli/releases/download/v2.38.7/spicetify-2.38.7-darwin-arm64.tar.gz
+[17:52:48 2025-01-19] EXTRACTING /Users/Ekansh/.spicetify/spicetify.tar.gz
+[17:52:48 2025-01-19] SETTING EXECUTABLE PERMISSIONS TO /Users/Ekansh/.spicetify/spicetify
+[17:52:48 2025-01-19] REMOVING /Users/Ekansh/.spicetify/spicetify.tar.gz
+[17:52:48 2025-01-19] APPENDING /Users/Ekansh/.spicetify to PATH in /Users/Ekansh/.bashrc
+[17:52:48 2025-01-19] APPENDING /Users/Ekansh/.spicetify to PATH in /Users/Ekansh/.bash_profile
+[17:52:48 2025-01-19] spicetify v2.38.7 was installed successfully to /Users/Ekansh/.spicetify
+[17:52:48 2025-01-19] Run 'spicetify --help' to get started
